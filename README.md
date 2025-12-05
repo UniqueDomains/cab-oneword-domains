@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CAB one-word domains still available to buy.
 
-This dataset contains 4,667 .CAB one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,668 .CAB one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CAB one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cab-oneword-domains&utm_content=description.top) (4,667) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -25,7 +25,7 @@ If you want to search & filters the complete database of [.CAB one word domains]
 | aaron.cab      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.cab  | premium   | 50       | 1%     | 9      |           |         |         |
 | abaft.cab      | premium   | 43       | 2%     | 5      |           |         |         |
-| abandoned.cab  | premium   | 58       | 10%    | 9      |           |         |         |
+| abandoned.cab  | premium   | 58       | 7%     | 9      |           |         |         |
 | abashed.cab    | premium   | 60       | 2%     | 7      |           |         |         |
 | abasic.cab     | premium   | 54       | 2%     | 6      |           |         |         |
 | abatable.cab   | premium   | 54       | 1%     | 8      |           |         |         |
@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.CAB one word domains]
 | abbatial.cab   | premium   | 50       | 1%     | 8      |           |         |         |
 | abc.cab        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.cab  | premium   | 50       | 1%     | 9      |           |         |         |
-| abdominal.cab  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.cab  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.cab | premium   | 56       | 1%     | 10     |           |         |         |
 | abducens.cab   | premium   | 54       | 1%     | 8      |           |         |         |
 | abducent.cab   | premium   | 68       | 1%     | 8      |           |         |         |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.CAB one word domains]
 | aberdonian.cab | premium   | 68       | 1%     | 10     |           |         |         |
 | aberrant.cab   | premium   | 74       | 7%     | 8      |           |         |         |
 | abeyant.cab    | premium   | 56       | 2%     | 7      |           |         |         |
-| abhorrent.cab  | premium   | 54       | 1%     | 9      |           |         |         |
+| abhorrent.cab  | premium   | 54       | 3%     | 9      |           |         |         |
 | abiding.cab    | available | 106      | 5%     | 7      |           |         |         |
 | abient.cab     | premium   | 54       | 1%     | 6      |           |         |         |
 | ability.cab    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.CAB one word domains]
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
