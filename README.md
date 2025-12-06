@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CAB one-word domains still available to buy.
 
-This dataset contains 4,668 .CAB one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,672 .CAB one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CAB one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cab-oneword-domains&utm_content=description.top) (4,667) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.CAB one word domains]
 
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.cab        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.cab        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.cab      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.cab  | premium   | 50       | 1%     | 9      |           |         |         |
 | abaft.cab      | premium   | 43       | 2%     | 5      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.CAB one word domains]
 | abatic.cab     | premium   | 54       | 2%     | 6      |           |         |         |
 | abaxial.cab    | premium   | 54       | 2%     | 7      |           |         |         |
 | abbatial.cab   | premium   | 50       | 1%     | 8      |           |         |         |
-| abc.cab        | available | 102      | 41%    | 3      |           |         |         |
+| abc.cab        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.cab  | premium   | 50       | 1%     | 9      |           |         |         |
 | abdominal.cab  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.cab | premium   | 56       | 1%     | 10     |           |         |         |
