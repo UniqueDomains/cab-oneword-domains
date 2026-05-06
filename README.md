@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .cab one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,402 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,402 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,402 domains · **Median ask:** $24.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/cab`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| jewels.cab        | available | $19.99    | —             | 80             | 15     | 6      | name.com                                                |
+| ladies.cab        | available | $19.99    | —             | 80             | 17     | 6      | name.com                                                |
+| barup.cab         | available | $19.99    | —             | 82             | 2      | 6      | name.com                                                |
+| matcha.cab        | available | $19.99    | —             | 86             | 39     | 6      | name.com                                                |
+| edamame.cab       | available | $19.99    | —             | 80             | 9      | 7      | name.com                                                |
+| playin.cab        | available | $19.99    | —             | 80             | 10     | 7      | name.com                                                |
+| toneup.cab        | available | $19.99    | —             | 80             | 5      | 7      | name.com                                                |
+| makeit.cab        | available | $19.99    | —             | 82             | 22     | 7      | name.com                                                |
+| pierogi.cab       | available | $19.99    | —             | 82             | 7      | 7      | name.com                                                |
+| watches.cab       | available | $19.99    | —             | 84             | 19     | 7      | name.com                                                |
+| getlife.cab       | available | $19.99    | —             | 80             | 5      | 8      | name.com                                                |
 | agents.cab        | available | $19.99    | —             | 56             | 50     | 6      | name.com                                                |
 | easy.cab          | resell    | —         | —             | 84             | 67     | 4      | Porkbun LLC                                             |
 | WiFi.cab          | premium   | $92.40    | $92.40        | 83             | 37     | 5      | namecheap                                               |
-| matcha.cab        | available | $19.99    | —             | 86             | 39     | 6      | name.com                                                |
 | genius.cab        | resell    | —         | —             | 84             | 44     | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | prices.cab        | premium   | $82.50    | —             | 51             | 15     | 6      | name.com                                                |
 | lets.cab          | available | $19.99    | —             | 77             | 39     | 4      | name.com                                                |
 | SantaClara.cab    | premium   | $280      | $280          | 75             | 9      | 11     | namecheap                                               |
 | whynot.cab        | available | $19.99    | —             | 74             | 39     | 7      | name.com                                                |
 | HoChiMinhCity.cab | premium   | $78.54    | $78.54        | 64             | 7      | 16     | namesilo                                                |
-| justin.cab        | available | $19.99    | —             | 58             | 38     | 7      | name.com                                                |
-| carols.cab        | premium   | $250      | —             | 56             | 7      | 6      | name.com                                                |
-| neuroscience.cab  | available | $19.99    | —             | 80             | 37     | 12     | name.com                                                |
-| teams.cab         | available | $19.99    | —             | 62             | 32     | 5      | name.com                                                |
-| trends.cab        | available | $19.99    | —             | 60             | 32     | 6      | name.com                                                |
-| William.cab       | available | $41.98    | —             | 74             | 31     | 7      | namecheap                                               |
-| commonground.cab  | available | $19.99    | —             | 74             | 28     | 13     | name.com                                                |
-| brands.cab        | available | $19.99    | —             | 62             | 28     | 6      | name.com                                                |
-| pages.cab         | available | $19.99    | —             | 52             | 28     | 5      | name.com                                                |
-| trades.cab        | available | $19.99    | —             | 71             | 26     | 6      | name.com                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,402 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,402 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely focused on one-word .cab domains. The names range from plain dictionary-style words such as tips.cab and ladies.cab to shorter coined or compressed forms like Acup.cab and barup.cab. For founders, the key question is whether the word is clear, memorable, and usable without explanation. For investors, the key question is whether the low median ask leaves room for a sensible spread after renewal costs and holding time. Because this set is limited to .cab, extension fit matters more than usual: stronger picks tend to pair naturally with transport, mobility, dispatch, booking, fleet, ride, or location-based use cases.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize words that fit transport, rides, fleets, or booking
+- Check if the word reads cleanly before the .cab ending
+- Low ask can help, but renewal cost still matters
+- Avoid words with obvious trademark conflict risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAB One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAB One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
