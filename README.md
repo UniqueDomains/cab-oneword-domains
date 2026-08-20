@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cab one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,382 domains · **Median ask:** $24.66 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/cab`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| okay.cab    | available | $19.99    | $43.99        | high           | low    | 4      | name.com                                     |
-| content.cab | available | $19.99    | $43.99        | high           | low    | 7      | name.com                                     |
-| atp.cab     | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
-| ask.cab     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                             |
-| aaa.cab     | premium   | $520      | $520          | high           | medium | 3      | namecheap                                    |
-| BJP.cab     | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
-| bro.cab     | resell    | —         | —             | medium         | low    | 3      | NameCheap, Inc.                              |
-| aug.cab     | premium   | $38.94    | $38.94        | low            | low    | 3      | namesilo                                     |
-| cot.cab     | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| day.cab     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                             |
-| bar.cab     | premium   | $242      | $242          | high           | low    | 3      | namesilo                                     |
-| DJI.cab     | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| sex.cab     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                             |
-| but.cab     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
-| feb.cab     | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| club.cab    | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| mad.cab     | premium   | $78.54    | $78.54        | medium         | medium | 3      | namesilo                                     |
-| gee.cab     | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
-| fast.cab    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                              |
-| red.cab     | premium   | $500      | —             | high           | medium | 3      | name.com                                     |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| atp.cab  | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
+| ask.cab  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                             |
+| aaa.cab  | premium   | $520      | $520          | high           | medium | 3      | namecheap                                    |
+| BJP.cab  | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
+| bro.cab  | resell    | —         | —             | medium         | low    | 3      | NameCheap, Inc.                              |
+| aug.cab  | premium   | $38.94    | $38.94        | low            | low    | 3      | namesilo                                     |
+| cot.cab  | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| day.cab  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                             |
+| bar.cab  | premium   | $242      | $242          | high           | low    | 3      | namesilo                                     |
+| DJI.cab  | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| sex.cab  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                             |
+| but.cab  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
+| feb.cab  | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| club.cab | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| mad.cab  | premium   | $78.54    | $78.54        | medium         | medium | 3      | namesilo                                     |
+| gee.cab  | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
+| fast.cab | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                              |
+| red.cab  | premium   | $500      | —             | high           | medium | 3      | name.com                                     |
+| hic.cab  | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| news.cab | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAB One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAB One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
