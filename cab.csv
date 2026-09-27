@@ -2,20 +2,21 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 328c315c-e59b-4ecb-b161-202b41173245,ketonemia.cab,available,32.99,32.99,medium,low,9,namesilo,,,17/09/2026 00:10
 223dab9d-9668-48e5-bc42-858906a4bc42,having.cab,available,19.99,,high,low,6,name.com,,,
 b787463c-62fb-404a-a5ed-5c9467cf9124,formulated.cab,available,23.99,43.99,high,low,10,name.com,,,18/08/2026 12:22
-3012f8b3-87ea-4a40-9c4d-5254070d9d16,halal.cab,available,23.99,43.99,high,low,5,name.com,,,20/08/2026 22:18
+3012f8b3-87ea-4a40-9c4d-5254070d9d16,halal.cab,available,32.99,32.99,high,low,5,namesilo,,,27/09/2026 06:59
 477fa7a4-be0b-43fe-b4c9-f308197e0013,forested.cab,available,23.99,43.99,high,low,8,name.com,,,18/08/2026 11:43
 a489f048-c6e3-4e1f-8465-a6c46eec4d7a,ownerless.cab,available,32.99,32.99,medium,low,9,namesilo,,,04/09/2026 22:18
 d20c031b-2702-4470-90dc-17614d2202a4,dampen.cab,available,23.99,43.99,medium,low,6,name.com,,,13/08/2026 16:53
 1400632d-5523-4024-89a9-c0d14bb77cbb,cat.cab,available,,,high,high,3,,,,
 65bf2ba6-5d9d-49e3-9f91-e5f1c993ac2e,courtney.cab,available,33.98,41.98,high,low,8,namecheap,,,25/09/2026 21:37
-9417eb00-b480-4ac4-bbc7-a2db503a4904,pharmacy.cab,available,19.99,,high,low,8,name.com,,,
+9417eb00-b480-4ac4-bbc7-a2db503a4904,pharmacy.cab,available,32.99,32.99,high,low,8,namesilo,,,27/09/2026 06:58
 0a953435-93d9-422f-a26a-14f6a43c43e7,frill.cab,available,23.99,43.99,high,low,5,name.com,,,18/08/2026 23:46
 821721c3-64ce-4950-85bc-6b25ca0b6d5b,visualize.cab,available,32.99,32.99,high,low,9,namesilo,,,24/09/2026 16:39
 d7c6d890-511d-4365-a4b6-803e48d686df,french.cab,premium,78.54,78.54,high,low,6,namesilo,,,24/09/2026 21:41
 ea472451-c9a4-4537-960e-194a29b382df,colombo.cab,premium,242,242,high,low,7,namesilo,,,
 30507ffb-e3a5-4423-ba47-090b7b64d3d5,taxation.cab,available,19.99,,high,low,8,name.com,,,
-24fab4ea-3b1e-4831-a0d2-06fa46626a60,urgent.cab,available,19.99,,high,low,6,name.com,,,
-fefa56af-fdec-43bb-88bc-2efc8ec80afc,passionate.cab,available,19.99,,high,low,10,name.com,,,
+24fab4ea-3b1e-4831-a0d2-06fa46626a60,urgent.cab,available,33.98,41.98,high,low,6,namecheap,,,27/09/2026 06:05
+d2c4350a-8147-4b72-9dcd-b739749ad27b,shown.cab,available,32.99,32.99,medium,low,5,namesilo,,,27/09/2026 08:00
+fefa56af-fdec-43bb-88bc-2efc8ec80afc,passionate.cab,available,33.98,41.98,high,low,10,namecheap,,,27/09/2026 02:53
 e96ce681-7c6b-495b-92ff-71336d00cc2f,irwin.cab,available,33.98,41.98,medium,low,5,namecheap,,,25/09/2026 20:02
 dc12d201-d869-4a73-9e50-13a019b1a968,blackburn.cab,premium,242,242,high,low,9,namesilo,,,24/09/2026 02:11
 f3b66010-dd66-434c-8519-d5a219f22684,ascendant.cab,available,23.99,43.99,high,low,9,name.com,,,
@@ -97,11 +98,11 @@ a47e80b9-6c5f-4693-8706-884e4aa06e2f,vexer.cab,available,32.99,32.99,medium,low,
 1865b546-bfa0-4aab-8e99-167bf32cc795,form.cab,available,32.99,32.99,high,medium,4,namesilo,,,25/09/2026 12:45
 e96254de-3564-467b-8dae-75b70ed9300d,persian.cab,available,23.99,43.99,high,low,7,name.com,,,22/08/2026 09:41
 b5132cb8-2edf-4b76-a893-e42062bf0a87,leech.cab,available,32.99,32.99,medium,low,5,namesilo,,,24/09/2026 06:16
-93b480d9-cb9e-4651-b98f-0b7088eb951e,youtube.cab,available,,,high,high,7,,,,
 8c4e54b1-8009-49e2-89c4-609a6d8d7738,archibald.cab,available,32.99,32.99,medium,low,9,namesilo,,,25/09/2026 18:45
 27b8d704-52bf-468c-8899-59a0fccfe534,adoptable.cab,available,23.99,43.99,high,low,9,name.com,,,
 01b019d7-deb0-417d-b4ee-1bac25c06d22,hoydenish.cab,available,23.99,43.99,low,low,9,name.com,,,21/08/2026 14:29
 fa2f20c6-a3f2-4d8e-b692-d70219d82fe9,jowett.cab,available,32.99,32.99,medium,low,6,namesilo,,,23/09/2026 08:21
+a0be84dd-cc5a-44eb-aa39-4cc7462e431d,tables.cab,available,33.98,41.98,high,low,6,namecheap,,,27/09/2026 02:00
 453d7034-1d8c-432a-99d7-a946c5d1c1ae,bitt.cab,available,33.98,41.98,medium,low,4,namecheap,,,23/09/2026 22:49
 ea7a8861-2ad8-4e54-8170-9b2d607c928c,logistical.cab,available,23.99,43.99,high,low,10,name.com,,,24/08/2026 08:54
 f5cbac24-86d5-4f08-9a1d-10ad462f5c03,polyploid.cab,available,32.99,32.99,medium,low,9,namesilo,,,08/09/2026 23:29
@@ -133,7 +134,7 @@ d3d5b384-e032-408d-812f-efdd56da46dd,nonplussed.cab,available,23.99,43.99,medium
 5d880b40-f1db-4d88-b24c-5052b1151173,gallery.cab,available,33.98,41.98,high,low,7,namecheap,,,20/09/2026 09:55
 8ae819c0-9c37-4e49-b747-c88bd086b581,actor.cab,premium,242,242,high,low,5,namesilo,,,
 f4acd200-3d42-452b-aa4a-729c6d572567,valuator.cab,available,32.99,32.99,medium,low,8,namesilo,,,19/09/2026 22:13
-b4972d05-a27d-4529-8bc2-5089dfcee04a,technology.cab,available,33.98,41.98,high,low,10,namecheap,,,25/09/2026 15:15
+b4972d05-a27d-4529-8bc2-5089dfcee04a,technology.cab,available,32.99,32.99,high,low,10,namesilo,,,27/09/2026 01:35
 efcebf67-93d7-43f4-a8fd-87a6b0e01886,ingredients.cab,available,19.99,,medium,low,11,name.com,,,
 3c9fc281-a303-4b77-8132-ab884acb9c28,strontium.cab,available,33.98,41.98,medium,low,9,namecheap,,,20/09/2026 22:59
 ab02da38-a4f9-4cb8-8f68-6e00ddd52bd1,checklist.cab,available,19.99,,high,low,9,name.com,,,
@@ -153,12 +154,13 @@ faeaaf89-bd17-4fcb-bc01-a27f02592d4f,levantine.cab,available,23.99,43.99,medium,
 d5edc6cc-c819-44af-9cb2-6c3b7b7f3cfa,stud.cab,available,33.98,41.98,high,low,4,namecheap,,,24/09/2026 23:35
 e2483832-b3c8-4a8f-8ea8-9697cc36f432,distal.cab,available,23.99,43.99,medium,low,6,name.com,,,14/08/2026 13:03
 3f3ff91d-1044-44b6-b2b6-9230fdd4033f,provide.cab,available,19.99,,high,low,7,name.com,,,
-c20dfc52-ad44-4ffd-b17c-3b94f5231cea,psychic.cab,available,19.99,,high,low,7,name.com,,,
+c20dfc52-ad44-4ffd-b17c-3b94f5231cea,psychic.cab,available,33.98,41.98,high,low,7,namecheap,,,27/09/2026 07:57
 205018fc-6763-48b0-894e-910fe0e97481,webs.cab,available,32.99,32.99,high,low,4,namesilo,,,20/09/2026 10:33
 523e2066-8acd-449a-b144-357573b980a7,pita.cab,available,19.99,,high,low,4,name.com,,,
 d8f15e8d-03c6-41b8-851f-87a500619339,banff.cab,available,33.98,41.98,high,low,5,namecheap,,,22/09/2026 01:44
 c3f5392c-b03a-4730-9ab3-d54f8dce0c62,bargello.cab,available,32.99,32.99,medium,low,8,namesilo,,,22/09/2026 05:48
 b03b1a95-de58-4c1e-8224-cb82cb10d77f,zoic.cab,available,32.99,32.99,medium,low,4,namesilo,,,13/09/2026 15:25
+73205f8e-a3d9-433a-a480-518e29824f92,vargas.cab,available,32.99,32.99,high,low,6,namesilo,,,27/09/2026 04:13
 5ff7c301-d17a-45e2-9fab-b99df80f42f0,solidly.cab,available,32.99,32.99,medium,low,7,namesilo,,,16/09/2026 04:03
 fd9909b8-bc4a-4ad6-b49a-5547b1e92a8b,egotistic.cab,available,23.99,43.99,medium,low,9,name.com,,,12/08/2026 19:55
 d90968bd-bc05-466a-88b1-1bd775277bc2,release.cab,available,33.98,41.98,high,low,7,namecheap,,,24/09/2026 21:38
@@ -294,6 +296,7 @@ d63acb27-fa80-4aaf-a089-2fcc70963b0d,unselfish.cab,available,33.98,41.98,high,lo
 ae8124e2-91be-4954-b6b7-97b1670b9cd6,regulated.cab,available,32.99,32.99,high,low,9,namesilo,,,09/09/2026 13:06
 8b8a0b97-0c32-4bab-a3e7-8143591e4262,barometric.cab,available,23.99,43.99,medium,low,10,name.com,,,08/08/2026 20:06
 721f66d6-f1d6-4add-bdfc-c72ab2586ea7,beaked.cab,available,23.99,43.99,medium,low,6,name.com,,,09/08/2026 03:50
+a4b67ba3-3147-4a61-952b-3f8c36f4196a,bowling.cab,available,32.99,32.99,high,low,7,namesilo,,,27/09/2026 03:22
 330bb45b-3806-42c3-887c-5a5de35cc081,oral.cab,available,32.99,32.99,high,low,4,namesilo,,,04/09/2026 17:14
 a06c9b31-b72e-494c-932c-53fde34e656e,bambino.cab,available,32.99,32.99,high,low,7,namesilo,,,22/09/2026 00:39
 40edcda2-be9a-4f50-bde4-b8c8aafb7846,ataxic.cab,available,23.99,43.99,medium,low,6,name.com,,,07/08/2026 12:32
@@ -303,7 +306,6 @@ e153e3de-0280-4ba9-9e0d-1b68f0c0cef6,dreamer.cab,available,33.98,41.98,high,low,
 a45a09d6-2ec4-4158-af2d-db1af4402897,marble.cab,available,19.99,,high,low,6,name.com,,,
 918a8a89-7719-42c5-ab83-c9744045c022,touchdowns.cab,available,32.99,32.99,medium,low,10,namesilo,,,19/09/2026 23:06
 5a6e990b-e340-4e94-9c46-c9d788b495b3,contrabass.cab,available,23.99,43.99,medium,low,10,name.com,,,12/08/2026 23:28
-02d5dc7e-279d-44e6-9186-7ab8398f1c8b,netflix.cab,available,,,high,high,7,,,,
 d5a3c0b8-9985-4780-84f1-b873ed54bdad,diffused.cab,available,23.99,43.99,medium,low,8,name.com,,,14/08/2026 07:08
 427588d9-aa69-4748-8279-5355e1905ed9,anxiety.cab,available,32.99,32.99,high,low,7,namesilo,,,19/09/2026 15:59
 00ecb5d3-f262-4251-bcdd-76801abd0b97,areola.cab,available,32.99,32.99,medium,low,6,namesilo,,,20/09/2026 03:49
@@ -345,8 +347,9 @@ bda65f28-3e98-489e-abc2-d02ef9a3cea9,spontaneous.cab,available,19.99,,high,low,1
 b35dcbd5-2187-4141-b011-aaa906caae93,island.cab,available,19.99,,high,low,6,name.com,,,
 3ed4ea13-571b-4c09-9e9d-14ff9b0c8aa1,dionysian.cab,available,23.99,43.99,medium,low,9,name.com,,,14/08/2026 08:24
 6237ed6c-2ed5-414b-843f-d3225062d0fa,belisarius.cab,available,32.99,32.99,medium,low,10,namesilo,,,23/09/2026 05:17
+4237dc1c-5858-4395-9343-fd9492298951,camille.cab,available,33.98,41.98,high,low,7,namecheap,,,27/09/2026 07:42
 87faa8c9-1274-4b79-97b3-96241b7742ff,capacity.cab,available,33.98,41.98,high,low,8,namecheap,,,24/09/2026 12:12
-96467b34-8d23-459e-91d3-f0ea44306fc5,usa.cab,resell,,,high,medium,3,Dynadot Inc,24/05/2015 12:22,24/05/2027 12:22,25/09/2026 15:07
+96467b34-8d23-459e-91d3-f0ea44306fc5,usa.cab,resell,,,high,medium,3,Dynadot Inc,24/05/2015 12:22,24/05/2027 12:22,26/09/2026 09:54
 95343b1d-60a0-495e-bcfe-bc6f2a4296d7,accounts.cab,available,32.99,32.99,medium,low,8,namesilo,,,18/09/2026 16:24
 0aeef4d1-0080-40a4-9dc6-70face0f43d5,evidence.cab,available,23.99,43.99,high,low,8,name.com,,,24/08/2026 15:05
 602a401d-4f42-4716-9999-5de24ec42f8f,kigali.cab,premium,78.54,78.54,high,low,6,namesilo,,,24/09/2026 12:21
@@ -365,7 +368,7 @@ c255a43f-6c9d-430b-ae8c-eed5cdcacc8d,barter.cab,available,19.99,,high,low,6,name
 524baed9-7db4-4780-b854-e5d3238ce0ad,pensive.cab,available,23.99,43.99,high,low,7,name.com,,,11/08/2026 06:00
 aea92198-6fe9-4c8d-b308-aa26ff75b037,crotchety.cab,available,23.99,43.99,medium,low,9,name.com,,,13/08/2026 08:25
 ab5d2c0e-c463-409f-ae31-f27ccc1695c0,adoption.cab,available,32.99,32.99,high,low,8,namesilo,,,17/09/2026 09:43
-ec07049a-cd25-4d49-b8ea-858fd8cbaaed,specific.cab,available,19.99,,high,low,8,name.com,,,
+ec07049a-cd25-4d49-b8ea-858fd8cbaaed,specific.cab,available,32.99,32.99,high,low,8,namesilo,,,27/09/2026 02:45
 e2d9d2db-b8a4-4c33-9dea-1345c711fa6b,wikileaks.cab,available,19.99,,medium,low,9,name.com,,,
 a91126d4-8dce-44ee-a5e7-e239ed3e5f02,cardigan.cab,available,33.98,41.98,high,low,8,namecheap,,,24/09/2026 12:52
 54e0c0ed-3495-4b30-b40e-b1f3fcabbffb,despise.cab,available,19.99,,high,low,7,name.com,,,
@@ -408,6 +411,7 @@ ed83ead0-132c-43ed-a36d-e73d7135c270,hahaha.cab,available,19.99,,high,low,6,name
 cae65021-adab-460a-bf52-176d2de3c43b,commitment.cab,available,32.99,32.99,high,low,10,namesilo,,,18/09/2026 10:59
 c6e1898b-44df-4303-9468-de44a5da8de6,polyatomic.cab,available,32.99,32.99,medium,low,10,namesilo,,,08/09/2026 23:10
 8f61aae5-f5e1-444a-a1ad-a55f9e69e587,diversify.cab,available,19.99,,high,low,9,name.com,,,
+b245e882-cde1-44bb-b6e4-b57a9f098671,raf.cab,available,32.99,32.99,high,low,3,namesilo,,,27/09/2026 05:07
 8362ea86-95a5-4680-9a6f-91566c2ab29d,balthazar.cab,available,32.99,32.99,high,low,9,namesilo,,,22/09/2026 00:14
 9adc550f-2fbe-404d-889c-75542cace3e7,legless.cab,available,23.99,43.99,medium,low,7,name.com,,,22/08/2026 23:13
 bd4e7372-b90a-4f0f-98d6-861118d74b7c,bema.cab,available,32.99,32.99,high,low,4,namesilo,,,23/09/2026 07:15
@@ -454,12 +458,12 @@ d5d45f05-6e81-46c1-8613-7d8ddbeae063,clipboards.cab,available,32.99,32.99,medium
 55552225-43c3-490b-8590-164ce5bdcfc2,rhenium.cab,available,32.99,32.99,medium,low,7,namesilo,,,20/09/2026 23:48
 35c88daf-6b0b-45c1-bc3c-84b0a9c59cab,berzelius.cab,available,32.99,32.99,medium,low,9,namesilo,,,23/09/2026 10:24
 3b9e6e62-4282-4f6f-ac11-8960ab02d905,redly.cab,available,32.99,32.99,medium,low,5,namesilo,,,15/09/2026 22:51
-da873d1c-6f5a-4b08-a37d-ab2f339b9fcd,eye.cab,resell,19.99,,high,low,3,name.com,,,23/09/2026 13:32
+da873d1c-6f5a-4b08-a37d-ab2f339b9fcd,eye.cab,resell,19.99,,high,low,3,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),15/03/2026 11:50,15/03/2027 11:50,26/09/2026 05:58
 4f59613b-7206-4e99-ac46-a8acf68f9aa2,impala.cab,available,32.99,32.99,medium,low,6,namesilo,,,17/09/2026 12:44
 5c1896b6-7a37-41c6-aedb-4d6555309f9e,foolishly.cab,available,33.98,41.98,medium,low,9,namecheap,,,14/09/2026 19:22
 7612d6ad-d751-40a2-be2f-355d3753fead,pig.cab,available,19.99,,high,low,3,name.com,,,
 14ffe04d-4aa8-4226-b2ba-eaf4d9ff0856,buffalo.cab,premium,260,260,high,low,7,namecheap,,,18/09/2026 19:11
-7ef73892-b4c1-44ee-aac5-8d1bff99402a,perfect.cab,available,19.99,,high,low,7,name.com,,,
+7ef73892-b4c1-44ee-aac5-8d1bff99402a,perfect.cab,available,33.98,41.98,high,medium,7,namecheap,,,27/09/2026 04:37
 076922f9-f3c2-4d91-8913-2f3495849d1a,truthfully.cab,available,32.99,32.99,high,low,10,namesilo,,,16/09/2026 09:34
 37e1048a-1c16-408c-a453-9beacd288198,comte.cab,available,32.99,32.99,high,low,5,namesilo,,,21/09/2026 03:56
 e3a3d738-d66c-41e3-a622-3ac1f593b4f3,skirting.cab,available,32.99,32.99,medium,low,8,namesilo,,,20/09/2026 08:31
@@ -488,6 +492,7 @@ d7284b10-bb49-4024-973a-510449970e22,ponderable.cab,available,23.99,43.99,medium
 e9735141-7f6c-48b7-82c7-ce043a2fa172,aftercare.cab,available,33.98,41.98,high,low,9,namecheap,,,17/09/2026 15:35
 522bc9e9-5c91-4dec-9adf-20dcc6b01caf,kgb.cab,available,19.99,,high,low,3,name.com,,,
 75974a7a-fb81-456a-b7b2-00756b205b33,focussed.cab,available,23.99,43.99,high,low,8,name.com,,,18/08/2026 09:47
+a24bf239-d133-4785-8cc1-c44fd5e7ed62,narrator.cab,available,32.99,32.99,high,low,8,namesilo,,,27/09/2026 04:49
 90ae114a-0967-49ba-8656-28344ef1135e,bernini.cab,available,32.99,32.99,high,low,7,namesilo,,,23/09/2026 09:56
 468d0c61-676e-4c07-8a1e-bfc4c461891c,wriggling.cab,available,32.99,32.99,high,low,9,namesilo,,,13/09/2026 13:41
 212f0b6a-b7e9-458a-ab5e-77ba58178428,awesome.cab,available,32.99,32.99,high,medium,7,namesilo,,,22/09/2026 15:04
@@ -497,6 +502,7 @@ fcfbbc8a-7453-456f-a02d-4e8f6fd58695,attested.cab,available,23.99,43.99,medium,l
 87a53cb1-7e33-45a8-b764-350899f87edb,cardboard.cab,available,23.99,43.99,high,low,9,name.com,,,11/08/2026 18:49
 cfd47d33-bd9f-4f2a-b8fa-950b36fe7113,handsomely.cab,available,32.99,32.99,high,low,10,namesilo,,,14/09/2026 22:57
 512f6bce-af64-49a8-9db3-592740121404,syncarpous.cab,available,32.99,32.99,medium,low,10,namesilo,,,11/09/2026 06:11
+28f07c96-fd02-48ad-8340-380a1c905d60,preparing.cab,available,32.99,32.99,high,low,9,namesilo,,,27/09/2026 06:40
 b570af75-fb13-4973-b919-9522b34c7112,roller.cab,available,19.99,,high,low,6,name.com,,,
 a862e084-12be-4dab-8b33-a1a376eff806,rockefeller.cab,available,32.99,32.99,high,low,11,namesilo,,,25/09/2026 12:15
 596c7514-c2f1-4c6f-96d7-098b682f7b26,psychologist.cab,available,19.99,,high,low,12,name.com,,,
@@ -534,6 +540,7 @@ d1fb020e-07ff-4302-ae93-02bad24e4459,rican.cab,available,32.99,32.99,high,low,5,
 105e9748-d742-4f88-921e-60cf3e14c9dc,ratty.cab,available,23.99,43.99,medium,low,5,name.com,,,25/08/2026 06:53
 53ddd465-b3d2-4059-b638-3529c1185277,frostbite.cab,available,33.98,41.98,high,low,9,namecheap,,,24/09/2026 19:56
 03fc0a40-ad28-424d-90f5-43403df85304,pedant.cab,available,32.99,32.99,medium,low,6,namesilo,,,09/09/2026 23:15
+f026f2d6-a4b6-4cfb-81e7-2b71bdb24acb,jarvis.cab,available,32.99,32.99,high,medium,6,namesilo,,,27/09/2026 01:43
 f5d43fa6-1b98-4199-a364-b6ab135a3aa8,land.cab,available,19.99,,high,low,4,name.com,,,
 350ec358-0ecc-4242-bcb2-a1c63f1b4809,arnhem.cab,available,33.98,41.98,high,low,6,namecheap,,,20/09/2026 08:09
 402c4b58-0fab-439c-821b-1bb09ac20dad,foul.cab,available,23.99,43.99,high,low,4,name.com,,,
@@ -591,6 +598,7 @@ ebe09501-bf30-470a-96ed-d6ba73ff155f,slanting.cab,available,23.99,43.99,medium,l
 0b8bf372-1e8e-4cee-b11c-b5986066fe3f,address.cab,available,32.99,32.99,high,low,7,namesilo,,,24/09/2026 02:37
 abc65f47-9ae5-4a88-a0cb-6fee4ec60c7f,biotech.cab,available,23.99,43.99,high,low,7,name.com,,,23/09/2026 19:06
 c4ea4841-64b9-42eb-9a8d-00d3dc43420f,inspection.cab,available,33.98,41.98,high,low,10,namecheap,,,25/09/2026 12:32
+f5595f0c-2021-4431-ba38-2fac391cbeb0,lungs.cab,available,32.99,32.99,medium,low,5,namesilo,,,27/09/2026 02:43
 9fa96264-7745-4967-b192-abe1b489f54c,bayer.cab,available,,,high,medium,5,,,,
 0035ddcc-bacc-4094-8899-436947b34239,palatine.cab,available,32.99,32.99,medium,low,8,namesilo,,,04/09/2026 23:20
 061b5c88-a3a1-4422-bb80-f88c9de9ba03,readily.cab,available,32.99,32.99,medium,low,7,namesilo,,,15/09/2026 21:42
@@ -605,7 +613,7 @@ de84387f-94be-45ef-8ec5-8e2471b6d8e8,observant.cab,available,23.99,43.99,high,lo
 d1fcd1cc-8d8a-483a-ab65-3bd2d2caad24,strongly.cab,available,19.99,,high,low,8,name.com,,,
 0bb79248-6764-4199-a349-44ef5108d937,amati.cab,available,32.99,32.99,high,low,5,namesilo,,,18/09/2026 16:09
 798ba777-9861-4b1a-9769-f0a1a5ac60f0,smoothly.cab,available,32.99,32.99,high,low,8,namesilo,,,16/09/2026 02:56
-0e7bfb56-1cc1-484f-baed-c351a050a30e,possible.cab,available,19.99,,high,low,8,name.com,,,
+0e7bfb56-1cc1-484f-baed-c351a050a30e,possible.cab,available,32.99,32.99,high,low,8,namesilo,,,27/09/2026 04:44
 fc356d33-e6e5-43f0-a022-37cd886980ba,coaxial.cab,available,23.99,43.99,medium,low,7,name.com,,,12/08/2026 14:16
 29175439-2bec-4b3e-a0a5-9d577d3c6d42,donkeys.cab,available,32.99,32.99,medium,low,7,namesilo,,,20/09/2026 00:20
 ec66597f-addf-4d97-ad6d-86e189797900,damascus.cab,premium,242,242,high,low,8,namesilo,,,
@@ -634,7 +642,7 @@ cfd2405e-baf3-4efb-9140-ef51b996e7cb,therefore.cab,available,19.99,,high,low,9,n
 3b032e9d-2da8-4bec-9323-e21db68ab0c3,diving.cab,available,19.99,,high,low,6,name.com,,,
 77a487cb-d84f-42a3-84b1-6ec2089386a0,eclectic.cab,available,23.99,43.99,high,low,8,name.com,,,14/08/2026 23:43
 f50499b8-105e-4a11-84aa-98bc66177317,aneurin.cab,available,32.99,32.99,medium,low,7,namesilo,,,19/09/2026 05:40
-e2a214a0-9b23-4cc7-abe6-3f147fe25266,rounds.cab,available,32.99,32.99,high,low,6,namesilo,,,17/09/2026 22:13
+e2a214a0-9b23-4cc7-abe6-3f147fe25266,rounds.cab,available,32.99,32.99,high,low,6,namesilo,,,27/09/2026 02:23
 b6bba256-0645-42b7-bb3c-6618e8c08e9f,lookouts.cab,available,32.99,32.99,medium,low,8,namesilo,,,18/09/2026 10:55
 b86e01e1-e9ca-40f9-816c-7ce46db78725,monogenic.cab,available,23.99,43.99,medium,low,9,name.com,,,25/08/2026 05:13
 79dd3f01-9efa-4918-84d9-e858338ac6ef,degrading.cab,available,23.99,43.99,medium,low,9,name.com,,,13/08/2026 20:10
@@ -813,6 +821,7 @@ b381bef6-6482-4079-85e6-8524a20baeaf,uninsured.cab,available,32.99,32.99,medium,
 c5b75a99-db9e-437b-9c0e-979ad18927f7,imprisoned.cab,available,23.99,43.99,medium,low,10,name.com,,,11/08/2026 18:22
 1e037419-9f14-47db-a16e-89abd841207c,loneliness.cab,available,32.99,32.99,high,low,10,namesilo,,,18/09/2026 13:13
 da8acdd5-62c4-4bec-887a-1517e56a74d6,bassine.cab,available,32.99,32.99,medium,low,7,namesilo,,,22/09/2026 12:22
+cf9c08c8-b6c8-4185-a84b-e98a014197b2,samantha.cab,available,32.99,32.99,high,low,8,namesilo,,,27/09/2026 07:25
 387d69f7-62b1-4b4f-9952-5cff780a494d,plumy.cab,available,23.99,43.99,medium,low,5,name.com,,,18/08/2026 00:25
 9be31e29-d3f3-4d18-92f9-82055a065355,forecast.cab,available,32.99,32.99,high,low,8,namesilo,,,21/09/2026 03:40
 771b1ccc-c189-4da1-b025-e55ff841b164,churlish.cab,available,23.99,43.99,medium,low,8,name.com,,,12/08/2026 07:49
@@ -852,12 +861,13 @@ c1046d13-133c-4a26-aac3-e7e599242166,credibly.cab,available,32.99,32.99,medium,l
 3fd385ff-37e6-4ce9-a068-960409848c6f,toothed.cab,available,23.99,43.99,medium,low,7,name.com,,,17/08/2026 12:41
 f4203fcb-0d40-4cdd-be90-dc57f8c79781,hardheaded.cab,available,23.99,43.99,medium,low,10,name.com,,,21/08/2026 00:26
 bfee8209-0a13-468c-b51c-b9dec2e3c2b4,dolomite.cab,available,32.99,32.99,medium,low,8,namesilo,,,23/09/2026 23:01
-09ddcb79-7fa1-4d5c-949d-3df8b7922356,proved.cab,available,19.99,,high,low,6,name.com,,,
+09ddcb79-7fa1-4d5c-949d-3df8b7922356,proved.cab,available,33.98,41.98,high,low,6,namecheap,,,27/09/2026 07:48
 9409e68b-9942-4017-a300-6cc34431d314,goonie.cab,available,32.99,32.99,medium,low,6,namesilo,,,23/09/2026 23:45
 559b86fe-07da-4b4e-9751-a6409b6c5db1,dictator.cab,available,23.99,43.99,high,low,8,name.com,,,07/08/2026 19:17
 a53e072c-db64-4412-a04f-3b96d304fb68,zdv.cab,available,32.99,32.99,medium,low,3,namesilo,,,21/09/2026 11:32
 9e469958-37d4-4fc4-8e0a-9ee61a213d66,records.cab,available,19.99,,high,low,7,name.com,,,
 c2679c5b-d986-4218-a799-cb92c992a2bb,blower.cab,available,23.99,43.99,medium,low,6,name.com,,,12/08/2026 01:06
+3b76a79b-baf9-4294-a220-4e80f334a7e3,penalty.cab,available,33.98,41.98,high,low,7,namecheap,,,27/09/2026 04:58
 a44b407c-e80e-4bdc-8d7d-48d517ddfde1,eastbound.cab,available,23.99,43.99,high,low,9,name.com,,,14/08/2026 22:50
 0550f1fe-3dfc-49ec-b719-f83a5cccf459,discharged.cab,available,23.99,43.99,medium,low,10,name.com,,,14/08/2026 09:49
 d1ac0f9b-5fc6-480d-9ba0-8b92db7c8b46,extant.cab,available,23.99,43.99,medium,low,6,name.com,,,17/08/2026 18:56
@@ -866,6 +876,7 @@ d79bbef6-cb41-48a6-bd12-d70e4ce1fe22,dosed.cab,available,23.99,43.99,medium,low,
 eefcefbf-c165-40fc-bdde-e668685467cd,grandparents.cab,available,33.98,41.98,high,low,12,namecheap,,,18/09/2026 06:12
 06ba3a99-5e89-4633-a68f-672a9a416500,beginner.cab,available,32.99,32.99,high,low,8,namesilo,,,23/09/2026 02:23
 8bc25469-d8d3-4627-9295-42541f93f18e,scrutinise.cab,available,33.98,41.98,medium,low,10,namecheap,,,21/09/2026 03:07
+daae42d7-3149-4141-a0cc-8956e5902c83,meade.cab,available,33.98,41.98,high,low,5,namecheap,,,27/09/2026 04:12
 4676d64d-2c93-497a-9a25-8da23ab7aa8a,additions.cab,available,32.99,32.99,medium,low,9,namesilo,,,18/09/2026 16:32
 3defbdda-91fd-4296-af6b-dd62cabe201f,guffaw.cab,available,32.99,32.99,high,low,6,namesilo,,,23/09/2026 06:41
 937ea11e-18ce-4ed3-b867-b3a3c58f09d0,unblessed.cab,available,32.99,32.99,medium,low,9,namesilo,,,12/09/2026 02:14
@@ -907,6 +918,7 @@ bacccfcc-0925-40b0-b68b-6729b37e8962,fight.cab,available,33.98,41.98,high,low,5,
 a54d1022-a7c0-43e3-a4cb-58e1466c94d7,skinny.cab,available,23.99,43.99,high,low,6,name.com,,,12/08/2026 04:01
 876a386d-edf4-4e55-af9c-ab2c0cc855b6,cooker.cab,available,33.98,41.98,high,low,6,namecheap,,,24/09/2026 18:03
 27878a30-ec7c-428d-835d-d64c774e5ba4,requester.cab,available,32.99,32.99,medium,low,9,namesilo,,,11/09/2026 03:33
+1ad695cf-7074-4e36-b410-b230c3536c26,palo.cab,available,32.99,32.99,medium,low,4,namesilo,,,27/09/2026 01:51
 b3cf9dbc-7826-43b3-a1c7-39c8aac518d7,generously.cab,available,23.99,43.99,high,low,10,name.com,,,14/09/2026 21:14
 3d26df94-d80a-47d3-aaa5-bbffcb058157,erse.cab,available,23.99,43.99,medium,low,4,name.com,,,18/08/2026 19:28
 d7a3f3f4-ba87-4930-b7e3-1db8904350ab,yarrow.cab,available,32.99,32.99,medium,low,6,namesilo,,,17/09/2026 00:36
@@ -926,17 +938,20 @@ b7892826-4337-4a9d-bee3-fea3957e1a98,royally.cab,available,32.99,32.99,medium,lo
 27ad1327-a673-4950-a99a-1700534c7a9f,quilted.cab,available,33.98,41.98,medium,low,7,namecheap,,,09/09/2026 08:58
 9f48693d-f742-48af-9d6f-cea8ebb088c3,genial.cab,available,32.99,32.99,high,low,6,namesilo,,,21/09/2026 21:42
 598ab725-9222-44b9-841a-32d732496bfc,unhealthy.cab,available,23.99,43.99,medium,low,9,name.com,,,22/08/2026 06:24
+2cd9e3f9-27bd-4c5e-95bd-1da4a41d81b7,disappear.cab,available,32.99,32.99,high,low,9,namesilo,,,27/09/2026 05:58
 44974fab-0d4c-485e-a30b-92f64ef82ff0,consensual.cab,available,23.99,43.99,high,low,10,name.com,,,12/08/2026 22:31
 19ed9b9c-9c4f-4097-a1f0-9457391466cd,intramural.cab,available,23.99,43.99,high,low,10,name.com,,,22/08/2026 08:43
 454262e2-00b2-4b34-965e-cea458be8808,came.cab,available,19.99,,high,low,4,name.com,,,
+eecd5ebe-afcb-4bc3-8019-a069f8b33ea1,cohen.cab,available,32.99,32.99,high,low,5,namesilo,,,27/09/2026 03:21
 7da96a13-6568-463a-811c-af6dc81e6efb,funky.cab,available,23.99,43.99,high,low,5,name.com,,,18/08/2026 02:27
 cee2e67a-6551-4765-8050-1236b5d6f610,grandmothers.cab,available,33.98,41.98,medium,low,12,namecheap,,,20/09/2026 18:06
 be8b20b7-5cf2-4c73-b70e-4ec86e87f486,guile.cab,available,23.99,43.99,medium,low,5,name.com,,,13/08/2026 10:41
 de52bd57-a23e-4126-a3f3-5e9fc9a79341,joining.cab,available,32.99,32.99,high,low,7,namesilo,,,25/09/2026 23:20
 3829854b-2857-4165-b21f-c955f6c663d6,barmaid.cab,available,32.99,32.99,high,low,7,namesilo,,,22/09/2026 06:36
+2a17a3fb-68dd-4fa8-890a-c2106376afb4,locate.cab,available,23.99,43.99,high,low,6,name.com,,,27/09/2026 05:21
 6e6cbaa7-40be-4c6e-956c-83a11a33525c,mavin.cab,available,23.99,43.99,high,low,5,name.com,,,
 1dda2498-6bb9-48ee-ae0f-1d32d2ebe55a,postwar.cab,available,32.99,32.99,medium,low,7,namesilo,,,09/09/2026 00:42
-087eabeb-364d-4b35-a698-36a18e2c6131,autonomous.cab,resell,,,high,medium,10,GoDaddy Online Services Cayman Islands Ltd.,29/07/2015 10:46,29/07/2027 10:46,22/09/2026 14:12
+087eabeb-364d-4b35-a698-36a18e2c6131,autonomous.cab,resell,,,high,medium,10,GoDaddy Online Services Cayman Islands Ltd.,29/07/2015 10:46,29/07/2027 10:46,26/09/2026 04:09
 d8b7010f-ed9f-41da-9e02-554aaa14f405,desirable.cab,available,23.99,43.99,high,low,9,name.com,,,14/08/2026 03:47
 41e3eb8f-0bcb-4d2b-952b-e6b928d3ec14,astronomer.cab,available,33.98,41.98,high,low,10,namecheap,,,20/09/2026 18:04
 eb1a039c-4eb9-4ea8-82fa-62fd5e65b69a,detestable.cab,available,23.99,43.99,medium,low,10,name.com,,,
@@ -947,7 +962,7 @@ a499a023-f4fb-48cb-9ed6-cd66471612c4,beeswax.cab,available,32.99,32.99,high,low,
 3668a362-0cdc-4d73-8725-5dd91522e04b,bay.cab,premium,242,242,high,low,3,namesilo,,,09/08/2026 02:26
 44ba0548-c21b-4a7f-9a7e-2c870b7a083d,amative.cab,available,23.99,43.99,medium,low,7,name.com,,,
 0caaef15-3542-46c9-94fc-c970712b2808,opposition.cab,available,32.99,32.99,high,low,10,namesilo,,,04/09/2026 16:40
-b1fc7489-4907-447f-ba77-f4bf31db9af2,sorry.cab,available,33.98,41.98,high,low,5,namecheap,,,24/09/2026 06:24
+b1fc7489-4907-447f-ba77-f4bf31db9af2,sorry.cab,available,33.98,41.98,high,low,5,namecheap,,,27/09/2026 04:37
 7e2d5983-2a19-4253-8cba-282e5ac9daee,expense.cab,available,32.99,32.99,high,low,7,namesilo,,,24/09/2026 22:30
 4d2b19ae-9d18-44c6-8db2-817a8b76204f,breadfruit.cab,available,32.99,32.99,high,low,10,namesilo,,,20/09/2026 11:57
 21ca70b3-cf7b-49b7-b846-cad3f02fd150,advantages.cab,available,32.99,32.99,medium,low,10,namesilo,,,17/09/2026 07:07
@@ -958,7 +973,7 @@ a91323db-01a2-49ef-8330-9e257bd03ccd,algerian.cab,available,23.99,43.99,high,low
 8362991a-ec17-418d-b603-9e453c6103b9,twisted.cab,available,23.99,43.99,high,low,7,name.com,,,25/08/2026 01:43
 7e7d314e-888e-4ff4-80a3-8c047c20ead1,nodding.cab,available,23.99,43.99,high,low,7,name.com,,,12/08/2026 00:48
 ab861944-8f78-48da-95e5-3f92704b1f7b,daydreams.cab,available,33.98,41.98,medium,low,9,namecheap,,,19/09/2026 21:17
-326f3310-6b35-4f8c-b6d1-8715cc598322,public.cab,available,19.99,,high,low,6,name.com,,,
+326f3310-6b35-4f8c-b6d1-8715cc598322,public.cab,available,32.99,32.99,high,medium,6,namesilo,,,27/09/2026 08:01
 f7b628c7-4d74-4bb1-9e2e-7bc68e7af9f8,paralyzed.cab,available,32.99,32.99,medium,low,9,namesilo,,,08/09/2026 01:29
 ebed35ae-2547-43de-8eac-dd9f2e1de69e,anatidae.cab,available,32.99,32.99,medium,low,8,namesilo,,,19/09/2026 03:26
 0473ece8-0e26-4424-a60e-83c0d85d8470,milliliter.cab,available,23.99,43.99,medium,low,10,name.com,,,11/08/2026 22:53
@@ -984,18 +999,3 @@ c7af3ee0-2f75-43b9-9e0b-8e5dfe6e2609,pudendal.cab,available,32.99,32.99,medium,l
 086bdafb-41b1-4d6d-a1d9-e47b98ca1a06,satellite.cab,available,23.99,43.99,high,low,9,name.com,,,09/09/2026 21:34
 8cd9a473-e33c-4238-8c47-d7a29307fbd1,coeval.cab,available,23.99,43.99,medium,low,6,name.com,,,12/08/2026 15:28
 992b4db0-2e76-4ed8-b8c3-4ab8134c1286,pullover.cab,available,32.99,32.99,high,low,9,namesilo,,,16/09/2026 17:17
-5032c97d-5c05-4e92-a4a2-e190791ffbd0,sliding.cab,available,19.99,,high,low,7,name.com,,,
-e88013f8-cfdf-4b7a-9bfb-ec0d0630d669,amass.cab,available,23.99,43.99,high,low,5,name.com,,,12/08/2026 16:53
-549c95ce-2529-44af-a432-f81b2b46bfa9,deftness.cab,available,32.99,32.99,high,low,8,namesilo,,,17/09/2026 07:43
-cb2b5adf-baea-473c-93f2-c68b5098e9e3,quechua.cab,available,23.99,43.99,high,low,7,name.com,,,22/08/2026 15:21
-ba8f469c-3d06-4e60-ab7d-b1e13e0c3513,mods.cab,available,19.99,,high,low,4,name.com,,,
-51a91b75-f08c-47bd-961c-728c1fd6a2ac,auschwitz.cab,available,32.99,32.99,medium,low,9,namesilo,,,21/09/2026 04:35
-4736e2d6-47ab-400e-8310-3804544e4c67,tinned.cab,available,32.99,32.99,medium,low,6,namesilo,,,11/09/2026 16:17
-5e8a9471-6cc6-427b-9c48-8c41a7aaab8c,armet.cab,available,32.99,32.99,medium,low,5,namesilo,,,20/09/2026 06:49
-488ca942-b4aa-45d0-a48a-4a5fa5c2ca14,arachnoid.cab,available,23.99,43.99,medium,low,9,name.com,,,06/08/2026 11:41
-a8c8c0a7-e4f9-4ba5-bc54-4cc27b051531,index.cab,resell,,,high,medium,5,"Global Domains International, Inc. DBA DomainCostClub.com",07/06/2016 10:05,07/06/2026 10:05,
-3b9dc220-e5ba-4f3b-89a5-5b4139faa626,votive.cab,available,32.99,32.99,medium,low,6,namesilo,,,13/09/2026 07:17
-d8902f9e-8f33-4d21-b4bb-d8b8bc21f09a,psychology.cab,available,19.99,,high,low,10,name.com,,,
-69bd71f0-f052-4291-8880-9007a2274ae9,theme.cab,available,19.99,,high,low,5,name.com,,,
-79285cc9-98a0-4f04-bfda-e5f36bdcfb3b,agrippina.cab,available,33.98,41.98,medium,low,9,namecheap,,,17/09/2026 19:33
-48d0d56d-862f-4517-9ee8-5460ed632f70,verpa.cab,available,23.99,43.99,medium,low,5,name.com,,,23/09/2026 05:34
